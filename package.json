@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/TuTuanLe/shop-fitness-backend#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^6.5.1",
     "nodemon": "^2.0.19"
   }
 }
